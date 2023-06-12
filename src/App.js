@@ -40,7 +40,7 @@ function Details(props){
       <p>{props.check} Dedicated Phone Support</p>
       <p>{props.check} Unlimited Free Subdomains</p>
       <p>{props.check} Monthly Status Reports</p>
-      <button>Button</button>
+      <button>Button1</button>
 
     </div>
 
